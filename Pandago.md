@@ -1,4 +1,4 @@
-# Pandago
+# Pandago: Quiz Battle & Rewards
 
 **Pandago** is an Android mobile app built around quizzes and rewards. Users compete against other players, earn points and coins, and can then exchange them for rewards, including gift cards.
 
